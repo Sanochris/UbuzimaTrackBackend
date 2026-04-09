@@ -109,6 +109,6 @@ The API runs at `http://localhost:8080`
 
 ## 👨‍💻 Author
 
-**Chris** — Built with 💙 in Rwanda 🇷🇼
+**Sano Chris Armel**
 
 ---
